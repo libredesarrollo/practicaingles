@@ -9,7 +9,7 @@
           <span class="text-2xl font-black text-brand-primary tracking-tight">PracticAIngles</span>
         </div>
         <div>
-          <a href="#descargar"
+          <a href="https://play.google.com/store/apps/details?id=net.desarrollolibre.practicaingles"
             class="hidden sm:flex gamified-button text-sm px-6 py-2 shadow-[0_4px_0_0_#cab9df] hover:shadow-[0_2px_0_0_#cab9df] hover:translate-y-0.5 active:shadow-none active:translate-y-1">
             Quiero probarlo
           </a>
@@ -36,7 +36,7 @@
           con modelos IA.
         </p>
         <div class="flex flex-col sm:flex-row gap-4 pt-4">
-          <a href="#descargar"
+          <a href="https://play.google.com/store/apps/details?id=net.desarrollolibre.practicaingles"
             class="gamified-button text-lg shadow-[0_6px_0_0_#cab9df] hover:shadow-[0_4px_0_0_#cab9df] hover:translate-y-0.5 active:shadow-none active:translate-y-1.5 justify-center w-full sm:w-auto">
             <svg class="w-6 h-6 fill-current" viewBox="0 0 24 24">
               <path
@@ -196,7 +196,7 @@
             aprendizaje.</p>
 
           <div class="flex flex-col sm:flex-row items-center justify-center gap-6">
-            <a href="#"
+            <a href="https://play.google.com/store/apps/details?id=net.desarrollolibre.practicaingles"
               class="gamified-button bg-white text-brand-primary text-xl px-12 py-5 shadow-[0_6px_0_0_#cab9df] hover:shadow-[0_4px_0_0_#cab9df] hover:translate-y-0.5 active:shadow-none active:translate-y-1.5 w-full sm:w-auto">
               Descargar para Android
             </a>
