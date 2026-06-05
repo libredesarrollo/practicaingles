@@ -4,5 +4,5 @@ import vue from '@vitejs/plugin-vue'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [vue()],
-  base: './', // Asegura que las rutas a los archivos compilados sean relativas
+  base: './welcome', // Asegura que las rutas a los archivos compilados sean relativas
 })

@@ -3,7 +3,7 @@ import Home from '../views/Home.vue'
 import PrivacyPolicy from '../views/PrivacyPolicy.vue'
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHistory('/welcome'),
   routes: [
     {
       path: '/',
